@@ -1,0 +1,17 @@
+# Build artifacts
+/kikipus
+/bin/
+/dist/
+
+# Test & coverage output
+*.out
+*.test
+coverage.html
+
+# Local snapshots / databases
+*.db
+*.sqlite
+snapshots/
+
+# Local configuration
+config.toml
